@@ -1,0 +1,6 @@
+/Users/mac/RiderProjects/Lab02/Sin-Canada/bin/Debug/Sin_Canada.exe
+/Users/mac/RiderProjects/Lab02/Sin-Canada/bin/Debug/Sin_Canada.pdb
+/Users/mac/RiderProjects/Lab02/Sin-Canada/obj/Debug/Sin-Canada.csprojAssemblyReference.cache
+/Users/mac/RiderProjects/Lab02/Sin-Canada/obj/Debug/Sin-Canada.csproj.CoreCompileInputs.cache
+/Users/mac/RiderProjects/Lab02/Sin-Canada/obj/Debug/Sin_Canada.exe
+/Users/mac/RiderProjects/Lab02/Sin-Canada/obj/Debug/Sin_Canada.pdb
